@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
-              <p>Purok 1 Magoong Lnamon.</p>
+              <p>Purok 1 Magoong Linamon.</p>
               <p>Lanao Del Norte Philippines</p>
             </div>
           </div>
